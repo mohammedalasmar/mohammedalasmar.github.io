@@ -202,7 +202,7 @@ div.content {
 	clear: both;
 	padding:0;
 	margin:0;
-	overflow: hidden;
+	#overflow: hidden;
 	display:block;
 	padding-top:32px;
 }
@@ -385,6 +385,7 @@ ul.membership {
 	float:right;
 	width:570px;
 	margin-left:40px;
+	margin-right:50px;
 	margin-top:-6px;
 	list-style-type: none;
 	text-align: justify;
