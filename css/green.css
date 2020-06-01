@@ -387,7 +387,7 @@ ul.membership {
 	margin-left:40px;
 	margin-top:-6px;
 	list-style-type: none;
-	
+	text-align: justify;
 }
 
 ul.membership li {
@@ -402,6 +402,7 @@ ul.membership li {
 	margin-top:6px;
 	margin-right:50px;
 	margin-left:20px;
+	text-align: justify;
 }
 
 ul.works {
