@@ -205,6 +205,8 @@ div.content {
 	#overflow: hidden;
 	display:block;
 	padding-top:32px;
+	margin-right:40px;
+
 }
 
 h3 {
@@ -353,7 +355,7 @@ ul.skills li {
 	padding-left:10px;
 	background-position: 0 .5em;
 	margin-top:6px;
-	margin-right:50px;
+	margin-right:40px;
 }
 ul.ref {
 	margin:0;
@@ -376,7 +378,7 @@ ul.ref li {
 	padding-left:10px;
 	background-position: 0 .5em;
 	margin-top:6px;
-	margin-right:20px;
+	margin-right:40px;
 }
 
 ul.membership {
@@ -385,7 +387,7 @@ ul.membership {
 	float:right;
 	width:570px;
 	margin-left:40px;
-	margin-right:50px;
+	margin-right:40px;
 	margin-top:-6px;
 	list-style-type: none;
 	text-align: justify;
@@ -401,7 +403,7 @@ ul.membership li {
 	padding-left:10px;
 	background-position: 0 .5em;
 	margin-top:6px;
-	margin-right:50px;
+	margin-right:40px;
 	margin-left:20px;
 	text-align: justify;
 }
@@ -427,7 +429,7 @@ ul.works li img {
 	width:95px;
 	height:95px;
 	border:1px solid #b7c9cc;
-	margin-right:20px;
+	margin-right:40px;
 	margin-bottom:16px;
 }
 
@@ -572,7 +574,7 @@ img.portrait {
 	top: 100%;
 	margin-top: -40px;
 	right: 0%;
-	margin-right:10px;
+	margin-right:40px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	width: 77px;

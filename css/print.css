@@ -87,7 +87,7 @@ ul.list {
 	clear: both;
 	padding:0;
 	margin:0;
-	overflow: hidden;
+	#overflow: hidden;
 	text-align: justify;
 }
 
