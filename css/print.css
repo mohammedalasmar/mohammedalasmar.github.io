@@ -88,12 +88,14 @@ ul.list {
 	padding:0;
 	margin:0;
 	overflow: hidden;
+	text-align: justify;
 }
 
 ul.list li {
 	display:block;
 	float:right;
 	padding-top:32px;
+	text-align: justify;
 }
 
 
