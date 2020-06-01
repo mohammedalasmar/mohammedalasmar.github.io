@@ -17,31 +17,6 @@ sidebar:
     website: www.sussex.ac.uk/profiles/296484 #do not add http://
 
 
-    languages:
-      - idiom: Arabic
-        level: Native
-
-      - idiom: English
-        level: Professional
-
-      - idiom: Turkish
-        level: Very good
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise .....
-      
 education:
     - degree: PhD. School of Engineering and Informatics
       university: University of Sussex, UK
@@ -75,87 +50,42 @@ experiences:
       company: university of Sussex, UK
       details: |
         My research focusses on the development of network protocols for next-generation networks and study of Internet traffic.
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        
+    - role: Associate Tutor
+      time: 2015 - Present
+      company: university of Sussex, UK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        I have been an Associate Tutor at the School of Engineering and Informatics, running weekly lab sessions and seminars, marking students’ projects and assignments for the following modules: Computer Networks, Operating Systems, C/C++ Programming and Global Design Challenge.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+RESEARCH INTERESTS:
+    details: |  My research interests lie at the intersection of networked systems and protocols, information theory and statistical modelling. During my PhD studies, I have developed SCDP, an efficient data transport protocol for data cen- tres. SCDP builds on RaptorQ coding and is tailored for one-to-many and many-to-one data transfer patterns, which are extremely common in modern data centres. SCDP does so without compromis- ing on efficiency for short and long unicast flows. SCDP achieves this by integrating RaptorQ codes with receiver-driven data transport, in-network packet trimming and Multi-Level Feedback Queuing (MLFQ); (1) RaptorQ codes enable efficient one-to-many and many-to-one data transport; (2) on top of RaptorQ codes, receiver-driven flow control, in combination with in-network packet trimming, en- able efficient usage of network resources as well as multi-path transport and packet spraying for all transport modes. Incast and Outcast are eliminated; (3) the systematic nature of RaptorQ codes, in combination with MLFQ, enable fast, decoding-free completion of short flows. The work is in collabo- ration with Prof Crowcroft (University of Cambridge) and has appeared as a poster in ACM SIGCOMM 2018 and is currently under revision for IEEE/ACM Transactions on Networking. In collaboration with Dr Clegg (QMUL), we have conducted one of the most comprehensive studies on Internet traffic in the literature and is unique with respect to the spatial and temporal diversity of the studied Internet traces. Through rigorous statistical analysis of publicly available traces, we showed that the log-normal distribution is the best fit for Internet traffic volume. The work has major impact on designing models for researching networking problems, SLA provisioning and 95th-percentile pricing for ISPs. The work was published (reviewed in top 5% amongst 1464 papers) at the flagship IEEE networks conference with a follow-up submission in IEEE/ACM Transactions on Networking. As part of my work with Mavis Broadcast Ltd, I am researching reliable video streaming protocols with the ability to run optimised digital signal processing mechanisms on cloud streamed data. This is crucial for broadcasters who are challenged with the data transport often not being efficient for high-end broadcast applications.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+ 
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+   
     papers:
-      - title: The Art of Computer Programming
+      - title: SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centres
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: M. Alasmar, J. Crowcroft and G. Parisis
+        conference: IEEE/ACM Transactions on Networking, 2020 (under revision).
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+ 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+ RESEARCH ACTIVITIES:
+     title: Publications
+     intro: |
+    
+     papers:
+       - title: Reviewer for IEEE INFOCOM 2019 and 2020.
+ 
 
-skills:
-    title: Skills &amp; Proficiency
+HONOURS AND AWARDS:
+    title: Best In-session Presentation Award, IEEE INFOCOM, 2019.
+    title: First prize in the Maths Challenge that was organised by ‘rep2rep’ research group at Sussex and Cambridge universities, 2019.
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+   
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+ 
