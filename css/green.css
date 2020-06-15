@@ -139,7 +139,7 @@ a:hover {
 }
 
 .paper-bottom {
-	width:828px;
+	width:928px;
 	height:18px;
 	margin:0 auto;
 	background-image:url(../images/pbottom.jpg);
@@ -150,7 +150,7 @@ a:hover {
 /* ----------------------------------------- */
 
 .entry {
-	width:750px;
+	width:790px;
 	display: block;
 	padding-top:55px;
 	clear: both;
